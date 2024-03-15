@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TW_Value_v2.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/TW_Value_v2.github.io/static/js/main.a1a403a4.js",
+    "static/js/453.bb2c99ba.chunk.js": "/TW_Value_v2.github.io/static/js/453.bb2c99ba.chunk.js",
+    "index.html": "/TW_Value_v2.github.io/index.html",
+    "main.f855e6bc.css.map": "/TW_Value_v2.github.io/static/css/main.f855e6bc.css.map",
+    "main.a1a403a4.js.map": "/TW_Value_v2.github.io/static/js/main.a1a403a4.js.map",
+    "453.bb2c99ba.chunk.js.map": "/TW_Value_v2.github.io/static/js/453.bb2c99ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a1a403a4.js"
+  ]
+}
